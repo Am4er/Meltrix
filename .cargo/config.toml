@@ -1,0 +1,2 @@
+[env]
+CFLAGS_x86_64_pc_windows_msvc = "/DNDEBUG /DMIN_ARCH_SSE"
